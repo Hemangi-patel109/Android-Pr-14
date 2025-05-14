@@ -3,3 +3,4 @@
 AIM: Implement an app to create a spalsh screen with image.
 
 ![](./ss1.png) 
+![](./ss2.png) 
