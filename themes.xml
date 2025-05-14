@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.MyApplication14" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+    <style name="Theme.MyApplication14" parent="Base.Theme.MyApplication14" />
+</resources>
